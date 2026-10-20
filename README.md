@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **GenVerse** · Team ID `VTU-QFF-HC-0171` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#GenVerse)
+[⬆ Back to Top](#genverse)
 
 </div>
